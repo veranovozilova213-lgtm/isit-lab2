@@ -103,6 +103,7 @@
 
 ### **4. Диаграмма сценариев использования**
 
+<img width="692" height="932" alt="use-cases drawio" src="https://github.com/user-attachments/assets/974a7daf-f4d0-4a4c-96f1-254164bd7719" />
 
 
 
@@ -132,6 +133,7 @@
 
 ### **6. Диаграмма компонентов архитектуры**
 
+<img width="789" height="1432" alt="architecture" src="https://github.com/user-attachments/assets/e3166930-43f3-4b6d-9fc1-ea6da1c66441" />
 
 
 
